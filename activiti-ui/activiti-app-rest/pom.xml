@@ -9,7 +9,7 @@
   </parent>
   <artifactId>activiti-app-rest</artifactId>
   <properties>
-    <suppressionFile>${basedir}/../../../dependency-check-suppression.xml</suppressionFile>
+    <suppressionFile>${basedir}/../../dependency-check-suppression.xml</suppressionFile>
   </properties>
   <dependencies>
     <dependency>

@@ -10,7 +10,7 @@
 	<name>Activiti Content Storage - API</name>
 	<description>API for storing and retreiving binary content</description>
 	<properties>
-		<suppressionFile>${basedir}/../../../dependency-check-suppression.xml</suppressionFile>
+		<suppressionFile>${basedir}/../../dependency-check-suppression.xml</suppressionFile>
 	</properties>
 	<profiles>
 		<profile>

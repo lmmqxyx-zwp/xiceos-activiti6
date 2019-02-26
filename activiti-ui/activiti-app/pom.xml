@@ -11,7 +11,7 @@
   <packaging>war</packaging>
 
   <properties>
-    <suppressionFile>${basedir}/../../../dependency-check-suppression.xml</suppressionFile>
+    <suppressionFile>${basedir}/../../dependency-check-suppression.xml</suppressionFile>
   </properties>
 
   <dependencies>
