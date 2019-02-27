@@ -11,6 +11,8 @@
 	<name>xiceos-activiti6</name>
 	<description>spring boot 2.x集成activiti 6</description>
 
+	<packaging>pom</packaging>
+
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>

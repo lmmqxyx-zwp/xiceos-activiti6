@@ -4,6 +4,7 @@
 
   <groupId>top.by.activiti</groupId>
   <artifactId>activiti-ui-root</artifactId>
+  <version>6.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>Activiti UI App Root</name>
 
